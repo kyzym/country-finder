@@ -2,6 +2,7 @@
   "name": "countries-flags",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kyzym.github.io/country-finder/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "axios": "^0.22.0",
