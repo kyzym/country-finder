@@ -14,6 +14,7 @@ export const InputContainer = styled.label`
 
   &:hover,
   &:focus {
+    //
     box-shadow: var(--shadow-hovered);
   }
 
