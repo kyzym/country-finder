@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/country-finder/static/css/main.f0f23051.css",
+    "main.js": "/country-finder/static/js/main.6a692649.js",
+    "index.html": "/country-finder/index.html",
+    "main.f0f23051.css.map": "/country-finder/static/css/main.f0f23051.css.map",
+    "main.6a692649.js.map": "/country-finder/static/js/main.6a692649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f23051.css",
+    "static/js/main.6a692649.js"
+  ]
+}
