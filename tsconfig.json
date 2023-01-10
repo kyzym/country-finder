@@ -2,7 +2,7 @@
   "compilerOptions": {
     "lib": ["dom", "dom.iterable", "esnext"],
     "module": "esnext",
-    "target": "ES2021",
+    "target": "ES5",
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
@@ -16,7 +16,5 @@
     "skipLibCheck": true,
     "strict": true,
     "baseUrl": "./src"
-  },
-  "exclude": ["node_modules"],
-  "include": ["src"]
+  }
 }
